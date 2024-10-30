@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
+	<h3>👧🏻  ᴀɴsʜɪғ xᴇʀ Whatsapp Bot 👧🏻</h3>
 <img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
 </div>
 <hr>
@@ -19,7 +19,7 @@
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
+<h1><a href="http://sadiyamin.github.io/Test">🌸  ᴀɴsʜɪғ xᴇʀ Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -33,7 +33,7 @@
 <h5>🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa Supported 👧</a>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join  ᴀɴsʜɪғ xᴇʀ Supported 👧</a>
 <hr>
 <h5>🌸 Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
@@ -86,18 +86,18 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 Alexa Developer Team 👤</h3>
+<h3>🌸  ᴀɴsʜɪғ xᴇʀ Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            |                        
+| Rozario 👤             | ANSHIF 👤            |                        
 |----------------------|----------------------|
 | [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 </div>
 <hr>
 <div align="center">
 	
-| Nisitha 👤             | Sadeepa 👤             |
+| ANSHIF XER 👤             | ROZARIO XER 👤             |
 |----------------------|----------------------|
-| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
+| [![ANSHIF-XER](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![ROZARIO-XER](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
 </div>
 <hr>
@@ -115,7 +115,7 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Alexa 💗</h5>
+<h5>Thank You For Using  ᴀɴsʜɪғ xᴇʀ  💗</h5>
 
 <hr>
 
